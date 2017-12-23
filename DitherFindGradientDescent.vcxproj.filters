@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="SImageData.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CDualNumber.h" />
+    <ClInclude Include="GaussianBlurGeneric.h" />
+    <ClInclude Include="Misc.h" />
+    <ClInclude Include="SImageData.h" />
+  </ItemGroup>
+</Project>
